@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Radiva Hera 👋</h1>
 <p align="center">
-  Solopreneur • Web App Developer • Teacher  
+  Solopreneur • Web App Developer • Teacher  •
   Creator of <b>Ngoding Sehari</b> on YouTube 🎥
 </p>
 
