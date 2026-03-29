@@ -9,18 +9,17 @@
 ### 🚀 Tentang Saya
 - 💻 Full-stack dev dengan fokus **Laravel + Vue**.
 - 🌱 Sedang belajar **Kotlin**, **Flutter**
+- 🤖 Sedang eksplor **AI, automation, dan vibe coding workflow**  
 - 🎓 Guru pelajaran SMK (RPL/Pemrograman).  
 - 📦 Sedang mengerjakan: **SIM Sekolah**, **JustLMS**, dan **POS + Invoice SaaS (PWA)**.
 - 🕒 Zona waktu: **Asia/Jakarta (UTC+7)**.
 
 ---
 
-### 📊 Stats
-<!-- 👉 GANTI: username GitHub-mu -->
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Radiva&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radiva&layout=compact&langs_count=8" />
-</p>
+### ✨ Current Focus
+- 🚀 Membangun produk SaaS sederhana untuk kebutuhan nyata  
+- 🎓 Mengembangkan materi pembelajaran coding berbasis praktik  
+- 🤖 Eksperimen integrasi AI untuk produktivitas sebagai guru dan developer  
 
 ---
 
